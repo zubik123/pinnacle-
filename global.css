@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-inika: Inika;
+
+  /* Colors */
+  --color-lightpink: #ffb5b6;
+
+  /* Paddings */
+  --padding-7xl: 26px;
+}
